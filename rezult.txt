@@ -1,0 +1,2 @@
+Filter:NONE,Test_No,Gaus_Noise,Aug_Factor,Conv,LSTM,GRU,Dense,Reg,Accuracy,Loss,MAE_m
+NONE,1,0.05,1,64,64,64,64,5e-05,0.3343,2.2829,1.122

@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+tensorflow
+scikit-learn
+openpyxl
+tqdm
+networkx
+fastapi
+uvicorn
+requests
+
+#pip install -r requirements.txt
