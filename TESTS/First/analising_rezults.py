@@ -42,7 +42,7 @@ warnings.filterwarnings("ignore", message="X does not have valid feature names")
 # =============================================================================
 
 # ---------- Global Folder Settings ----------
-WORK_DIR = Path("1")  # Working directory
+WORK_DIR = Path("2")  # Working directory
 CREATE_WORK_DIR = True  # Create if it doesn't exist
 INPUTS_RELATIVE_TO_WORK_DIR = True  # Look for input files inside WORK_DIR
 
